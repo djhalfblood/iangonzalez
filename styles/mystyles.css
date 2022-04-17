@@ -1,0 +1,49 @@
+body{
+    background-color: violet;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 70px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+
+.myfont{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white
+}
+
+.center{
+    text-align: center;
+}
+
+.mycolor{
+    color:indigo
+}
+
+.myindent{
+    text-indent: 50px;
+}
+
+.mybold{
+    font-weight: bold;
+}
